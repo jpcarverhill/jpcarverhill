@@ -1,15 +1,14 @@
 ### About me [(LinkedIn)](https://www.linkedin.com/in/jonathancarverhill/ "LinkedIn")
 
-I am a Senior Associate in the Innovation & Data team at PwC, where I leverage my expertise in programming and technology implementation to advance financial applications. With a Master of Science in Financial Technology from Imperial College Business School, I specialize in harnessing the power of data, statistical models, and machine learning to drive impactful results.
+Jonathan is a Quantitative Strategist at Deutsche Bank, specializing in full-stack software development to enhance and support the bank’s risk management capabilities. With a strong foundation in quantitative analysis and technology, he bridges the gap between complex financial models and robust, scalable software solutions. Jonathan is passionate about leveraging innovative tools to drive efficiency and accuracy in risk management processes.
 
-My approach is detail-oriented and rooted in honesty, respect, and a commitment to excellence. I thrive on challenges and view them as opportunities for significant breakthroughs. Dedicated to making a meaningful difference, I continually seek opportunities that align with my passion for driving innovation and positive change within the broader community.
-
-### Current 💼
+### Experience 💼
+* Quantitative Strategist at Deutsche Bank
 * Innovation & Data (Advanced Analytics) Senior Associate at PwC
 
 ### Education 🎓
 * MSc Financial Technology at Imperial College Business School
-* BEng Electrical & Electronics Engineering at University of Surrey
+* BEng Electrical & Electronics Engineering at the University of Surrey
 
 ### Interest 👨‍💻
 * Programming and technology implementation for financial applications
